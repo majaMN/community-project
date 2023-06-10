@@ -1,0 +1,24 @@
+D:\Dev\Veneka\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.deps.json
+D:\Dev\Veneka\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\Veneka\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\Veneka\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.csproj.AssemblyReference.cache
+D:\Dev\Veneka\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Veneka\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.AssemblyInfoInputs.cache
+D:\Dev\Veneka\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.AssemblyInfo.cs
+D:\Dev\Veneka\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.csproj.CoreCompileInputs.cache
+D:\Dev\Veneka\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\Veneka\CommunityProject.Core\obj\Debug\net6.0\refint\CommunityProject.Core.dll
+D:\Dev\Veneka\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\Veneka\CommunityProject.Core\obj\Debug\net6.0\ref\CommunityProject.Core.dll
+D:\Dev\New folder\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.deps.json
+D:\Dev\New folder\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\New folder\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.csproj.AssemblyReference.cache
+D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.AssemblyInfoInputs.cache
+D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.AssemblyInfo.cs
+D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.csproj.CoreCompileInputs.cache
+D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\refint\CommunityProject.Core.dll
+D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\ref\CommunityProject.Core.dll
