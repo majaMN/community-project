@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dev\\Veneka\\CommunityProject.Services\\CommunityProjectServices.csproj": {}
+  },
+  "projects": {
+    "D:\\Dev\\Veneka\\CommunityProject.Core\\CommunityProjectCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Veneka\\CommunityProject.Core\\CommunityProjectCore.csproj",
+        "projectName": "CommunityProjectCore",
+        "projectPath": "D:\\Dev\\Veneka\\CommunityProject.Core\\CommunityProjectCore.csproj",
+        "packagesPath": "C:\\Users\\MoraswiMaja\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Veneka\\CommunityProject.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MoraswiMaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\Veneka\\CommunityProject.Repository\\CommunityProjectRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Veneka\\CommunityProject.Repository\\CommunityProjectRepository.csproj",
+        "projectName": "CommunityProjectRepository",
+        "projectPath": "D:\\Dev\\Veneka\\CommunityProject.Repository\\CommunityProjectRepository.csproj",
+        "packagesPath": "C:\\Users\\MoraswiMaja\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Veneka\\CommunityProject.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MoraswiMaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Dev\\Veneka\\CommunityProject.Core\\CommunityProjectCore.csproj": {
+                "projectPath": "D:\\Dev\\Veneka\\CommunityProject.Core\\CommunityProjectCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\Veneka\\CommunityProject.Services\\CommunityProjectServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Veneka\\CommunityProject.Services\\CommunityProjectServices.csproj",
+        "projectName": "CommunityProjectServices",
+        "projectPath": "D:\\Dev\\Veneka\\CommunityProject.Services\\CommunityProjectServices.csproj",
+        "packagesPath": "C:\\Users\\MoraswiMaja\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Veneka\\CommunityProject.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MoraswiMaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Dev\\Veneka\\CommunityProject.Core\\CommunityProjectCore.csproj": {
+                "projectPath": "D:\\Dev\\Veneka\\CommunityProject.Core\\CommunityProjectCore.csproj"
+              },
+              "D:\\Dev\\Veneka\\CommunityProject.Repository\\CommunityProjectRepository.csproj": {
+                "projectPath": "D:\\Dev\\Veneka\\CommunityProject.Repository\\CommunityProjectRepository.csproj"
+              },
+              "D:\\Dev\\Veneka\\Veneka.API\\CommunityServiceAPI.csproj": {
+                "projectPath": "D:\\Dev\\Veneka\\Veneka.API\\CommunityServiceAPI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dev\\Veneka\\Veneka.API\\CommunityServiceAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dev\\Veneka\\Veneka.API\\CommunityServiceAPI.csproj",
+        "projectName": "CommunityServiceAPI",
+        "projectPath": "D:\\Dev\\Veneka\\Veneka.API\\CommunityServiceAPI.csproj",
+        "packagesPath": "C:\\Users\\MoraswiMaja\\.nuget\\packages\\",
+        "outputPath": "D:\\Dev\\Veneka\\Veneka.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MoraswiMaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Dev\\Veneka\\CommunityProject.Core\\CommunityProjectCore.csproj": {
+                "projectPath": "D:\\Dev\\Veneka\\CommunityProject.Core\\CommunityProjectCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
