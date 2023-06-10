@@ -1,0 +1,30 @@
+D:\Dev\Veneka\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Repository.deps.json
+D:\Dev\Veneka\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Repository.dll
+D:\Dev\Veneka\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Repository.pdb
+D:\Dev\Veneka\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\Veneka\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.csproj.AssemblyReference.cache
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.AssemblyInfoInputs.cache
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.AssemblyInfo.cs
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.csproj.CoreCompileInputs.cache
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.csproj.CopyComplete
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.dll
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\refint\CommunityProject.Repository.dll
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.pdb
+D:\Dev\Veneka\CommunityProject.Repository\obj\Debug\net6.0\ref\CommunityProject.Repository.dll
+D:\Dev\New folder\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Repository.deps.json
+D:\Dev\New folder\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Repository.dll
+D:\Dev\New folder\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Repository.pdb
+D:\Dev\New folder\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\New folder\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.csproj.AssemblyReference.cache
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.AssemblyInfoInputs.cache
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.AssemblyInfo.cs
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.csproj.CoreCompileInputs.cache
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.csproj.CopyComplete
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.dll
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\refint\CommunityProject.Repository.dll
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.pdb
+D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\ref\CommunityProject.Repository.dll
