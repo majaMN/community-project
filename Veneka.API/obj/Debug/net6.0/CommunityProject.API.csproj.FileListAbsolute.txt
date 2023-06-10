@@ -1,0 +1,170 @@
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\appsettings.json
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.API.exe
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.API.deps.json
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.API.runtimeconfig.json
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.API.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.API.pdb
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Azure.Core.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.Repository.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.Services.dll
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.Services.pdb
+D:\Dev\Veneka\Veneka.API\bin\Debug\net6.0\CommunityProject.Repository.pdb
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.csproj.AssemblyReference.cache
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.AssemblyInfoInputs.cache
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.AssemblyInfo.cs
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.csproj.CoreCompileInputs.cache
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\staticwebassets\msbuild.CommunityProject.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\staticwebassets\msbuild.build.CommunityProject.API.props
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CommunityProject.API.props
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CommunityProject.API.props
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\scopedcss\bundle\CommunityProject.API.styles.css
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.csproj.CopyComplete
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.dll
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\refint\CommunityProject.API.dll
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.pdb
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\CommunityProject.API.genruntimeconfig.cache
+D:\Dev\Veneka\Veneka.API\obj\Debug\net6.0\ref\CommunityProject.API.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\appsettings.json
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.API.exe
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.API.deps.json
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.API.runtimeconfig.json
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.API.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.API.pdb
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Azure.Core.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.Repository.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.Services.dll
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.Services.pdb
+D:\Dev\New folder\Veneka.API\bin\Debug\net6.0\CommunityProject.Repository.pdb
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.csproj.AssemblyReference.cache
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.AssemblyInfoInputs.cache
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.AssemblyInfo.cs
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.csproj.CoreCompileInputs.cache
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\staticwebassets\msbuild.CommunityProject.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\staticwebassets\msbuild.build.CommunityProject.API.props
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CommunityProject.API.props
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CommunityProject.API.props
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\scopedcss\bundle\CommunityProject.API.styles.css
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.csproj.CopyComplete
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.dll
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\refint\CommunityProject.API.dll
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.pdb
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\CommunityProject.API.genruntimeconfig.cache
+D:\Dev\New folder\Veneka.API\obj\Debug\net6.0\ref\CommunityProject.API.dll
