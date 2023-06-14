@@ -46,7 +46,8 @@ app.UseAuthorization();
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-    DataSeeder.SeedData(dbContext);
+    dbContext.Database.Migrate();
+    dbContext.SaveChanges();
 }
 
 app.MapControllers();
