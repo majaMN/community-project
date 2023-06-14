@@ -1,3 +1,4 @@
+using CommunityProject.Repository;
 using CommunityProject.Repository.Implementations;
 using CommunityProject.Repository.Interfaces;
 using CommunityProject.Services.Implementations;
@@ -24,7 +25,7 @@ builder.Services.AddScoped<ISponsorshipPlanRepository, SponsorshipPlanRepository
 builder.Services.AddScoped<IPaymentRepository, PaymentRepository>();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("CommunityProjectConnection")));
 
 
 var app = builder.Build();
@@ -39,6 +40,14 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+// Seed the database with initial data
+
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    DataSeeder.SeedData(dbContext);
+}
 
 app.MapControllers();
 

@@ -25,7 +25,7 @@ namespace CommunityProject.API.Controllers
             catch (Exception ex)
             {
                 // Log the exception
-                return StatusCode(500, "An error occurred while retrieving the available projects.");
+                throw new Exception( "An error occurred while retrieving the available projects.",ex);
             }
         }
     }

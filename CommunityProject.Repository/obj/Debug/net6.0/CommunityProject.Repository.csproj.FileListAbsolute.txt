@@ -28,3 +28,18 @@ D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.
 D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\refint\CommunityProject.Repository.dll
 D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.pdb
 D:\Dev\New folder\CommunityProject.Repository\obj\Debug\net6.0\ref\CommunityProject.Repository.dll
+D:\Dev\CommunityProject\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Repository.deps.json
+D:\Dev\CommunityProject\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Repository.dll
+D:\Dev\CommunityProject\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Repository.pdb
+D:\Dev\CommunityProject\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\CommunityProject\CommunityProject.Repository\bin\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.csproj.AssemblyReference.cache
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.AssemblyInfoInputs.cache
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.AssemblyInfo.cs
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.csproj.CoreCompileInputs.cache
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.csproj.CopyComplete
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.dll
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\refint\CommunityProject.Repository.dll
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\CommunityProject.Repository.pdb
+D:\Dev\CommunityProject\CommunityProject.Repository\obj\Debug\net6.0\ref\CommunityProject.Repository.dll

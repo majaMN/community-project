@@ -17,6 +17,7 @@ namespace CommunityProject.Repository.Implementations
         {
             try
             {
+                _context.SponsorshipPlans.Add(sponsorshipPlan);
                 await _context.SaveChangesAsync();
                 return sponsorshipPlan;
             }
@@ -45,6 +46,7 @@ namespace CommunityProject.Repository.Implementations
         {
             try
             {
+                _context.SponsorshipPlans.Update(sponsorshipPlan);
                 await _context.SaveChangesAsync();
                 return sponsorshipPlan;
             }

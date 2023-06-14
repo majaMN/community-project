@@ -32,3 +32,20 @@ D:\Dev\New folder\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Se
 D:\Dev\New folder\CommunityProject.Services\obj\Debug\net6.0\refint\CommunityProject.Services.dll
 D:\Dev\New folder\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Services.pdb
 D:\Dev\New folder\CommunityProject.Services\obj\Debug\net6.0\ref\CommunityProject.Services.dll
+D:\Dev\CommunityProject\CommunityProject.Services\bin\Debug\net6.0\CommunityProject.Services.deps.json
+D:\Dev\CommunityProject\CommunityProject.Services\bin\Debug\net6.0\CommunityProject.Services.dll
+D:\Dev\CommunityProject\CommunityProject.Services\bin\Debug\net6.0\CommunityProject.Services.pdb
+D:\Dev\CommunityProject\CommunityProject.Services\bin\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\CommunityProject\CommunityProject.Services\bin\Debug\net6.0\CommunityProject.Repository.dll
+D:\Dev\CommunityProject\CommunityProject.Services\bin\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\CommunityProject\CommunityProject.Services\bin\Debug\net6.0\CommunityProject.Repository.pdb
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Services.csproj.AssemblyReference.cache
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Services.AssemblyInfoInputs.cache
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Services.AssemblyInfo.cs
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Services.csproj.CoreCompileInputs.cache
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Services.csproj.CopyComplete
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Services.dll
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\refint\CommunityProject.Services.dll
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\CommunityProject.Services.pdb
+D:\Dev\CommunityProject\CommunityProject.Services\obj\Debug\net6.0\ref\CommunityProject.Services.dll

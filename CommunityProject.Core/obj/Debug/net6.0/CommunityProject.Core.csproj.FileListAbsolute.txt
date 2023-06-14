@@ -22,3 +22,17 @@ D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.d
 D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\refint\CommunityProject.Core.dll
 D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.pdb
 D:\Dev\New folder\CommunityProject.Core\obj\Debug\net6.0\ref\CommunityProject.Core.dll
+D:\Dev\CommunityProject\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.deps.json
+D:\Dev\CommunityProject\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.runtimeconfig.json
+D:\Dev\CommunityProject\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\CommunityProject\CommunityProject.Core\bin\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.csproj.AssemblyReference.cache
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.AssemblyInfoInputs.cache
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.AssemblyInfo.cs
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.csproj.CoreCompileInputs.cache
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.dll
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\refint\CommunityProject.Core.dll
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.pdb
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\CommunityProject.Core.genruntimeconfig.cache
+D:\Dev\CommunityProject\CommunityProject.Core\obj\Debug\net6.0\ref\CommunityProject.Core.dll

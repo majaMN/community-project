@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\New folder\\CommunityProject.Core\\CommunityProject.Core.csproj": {}
+    "D:\\Dev\\CommunityProject\\CommunityProject.Core\\CommunityProject.Core.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\New folder\\CommunityProject.Core\\CommunityProject.Core.csproj": {
+    "D:\\Dev\\CommunityProject\\CommunityProject.Core\\CommunityProject.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\New folder\\CommunityProject.Core\\CommunityProject.Core.csproj",
+        "projectUniqueName": "D:\\Dev\\CommunityProject\\CommunityProject.Core\\CommunityProject.Core.csproj",
         "projectName": "CommunityProject.Core",
-        "projectPath": "D:\\Dev\\New folder\\CommunityProject.Core\\CommunityProject.Core.csproj",
+        "projectPath": "D:\\Dev\\CommunityProject\\CommunityProject.Core\\CommunityProject.Core.csproj",
         "packagesPath": "C:\\Users\\MoraswiMaja\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\New folder\\CommunityProject.Core\\obj\\",
+        "outputPath": "D:\\Dev\\CommunityProject\\CommunityProject.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MoraswiMaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
